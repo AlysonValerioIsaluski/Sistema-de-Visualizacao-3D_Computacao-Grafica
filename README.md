@@ -1,1 +1,1 @@
-To run the 3d viewing tool, download qt, open the project there, and run it. To open the .obj meshes, change the model's path in mainwindow.cpp to your file's path.
+Para rodar e testar a ferramenta de visualização, instale QT com QMake e importe o projeto inteiro nesse repositório. Para abrir o wireframe dos modelos .obj, é necessário mudar o path dos modelos em mainwindow.cpp para o path do seu arquivo.
